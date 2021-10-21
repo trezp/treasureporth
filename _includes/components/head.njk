@@ -1,31 +1,32 @@
 <head>
   <meta charset="utf-8">
-  <link rel="dns-prefetch" href="https://identity.netlify.com">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ renderData.title or title or metadata.title }}</title>
-  <meta name="description" content="{{ metaDescription or renderData.metaDescription or summary or metadata.description }}">
-  <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-  {% set css %}
-    {% include "assets/css/normalize.css" %}
-    {% include "assets/css/variables.css" %}
-    {% include "assets/css/base-styles.css" %}
-    {% include "assets/css/utilites.css" %}
-    {% include "assets/css/site-header.css" %}
-    {% include "assets/css/site-footer.css" %}
-    {% include "assets/css/blog.css" %}
-    {% include "assets/css/projects.css" %}
-
-    {% if page.url == '/' %}
-      {% include "assets/css/home-page.css" %}
-    {% endif %}
-
-    {% if page.url == '/contact/' %}
-      {% include "assets/css/contact.css" %}
-    {% endif %}
-  {% endset %}
-  <style>{{ css | cssmin | safe }}</style>
-  {% set js %}
-    {% include "assets/js/inline.js" %}
-  {% endset %}
-  <script>{{ js | jsmin | safe }}</script>
-</head>
+    <link rel="dns-prefetch" href="https://identity.netlify.com">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>{{ renderData.title or title or metadata.title }}</title>
+        <meta name="description" content="{{ metaDescription or renderData.metaDescription or summary or metadata.description }}">
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+              <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100&family=Open+Sans&display=swap" rel="stylesheet">
+                <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+                {% set css %}
+                {% include "assets/css/normalize.css" %}
+                {% include "assets/css/variables.css" %}
+                {% include "assets/css/base-styles.css" %}
+                {% include "assets/css/utilites.css" %}
+                {% include "assets/css/site-header.css" %}
+                {% include "assets/css/site-footer.css" %}
+                {% include "assets/css/blog.css" %}
+                {% include "assets/css/projects.css" %}
+                {% if page.url == '/' %}
+                  {% include "assets/css/home-page.css" %}
+                {% endif %}
+                {% if page.url == '/contact/' %}
+                  {% include "assets/css/contact.css" %}
+                {% endif %}
+                {% endset %}
+                <style>{{css | cssmin | safe}}</style>
+                {% set js %}
+                {% include "assets/js/inline.js" %}
+                {% endset %}
+                <script>{{ js | jsmin | safe }}</script>
+              </head>
