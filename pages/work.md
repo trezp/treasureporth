@@ -32,4 +32,4 @@ eleventyNavigation:
 #### Portland State University
 
 **MA, Adult Education**    
-**BA, Liberal Studies ** 
+**BA, Liberal Studies** 
