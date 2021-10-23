@@ -1,23 +1,47 @@
 ---
-title: About Me
+title: Now
 subtitle: ""
 metaDescription: This page is all about me
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
-  key: About
+  key: Now
   order: 1
 ---
-#### Why Create This?
+#### Here's what I'm doing right [now now now](https://nownownow.com/about)
 
-I wanted to develop a portfolio that was simple, fast, accessible, and can be modified without opening up a code editor.
+### Location:
 
-First, I needed a static site generator. This led me to [Eleventy](https://www.11ty.dev/). This project is great because it is is simple, powerful, written in javascript, and framework free.
+Living in Portland, Oregon with my calico kitty, Peggy 
 
-Next, I wanted auto deployments and a git-powered CMS. [Netlify](https://www.netlify.com/) and their suite of tools seemed perfect.
+### Professional Title
 
-I found a few good starter projects using these technologies, but was overall unhappy with the current options. That led me to develop Fernfolio. The goal was not to create a technical masterpiece, but to create a beautiful portfolio with minimal overhead/complexity. Something that just works.
+Software Engineer, Front End 
 
-This project is open source so that hopefully someone else can use this as a template (or reference) in building their own site. Technical details can be found on the [Github repo](https://github.com/TylerMRoderick/fernfolio-11ty-template) and some customization instructions can be found [here](/posts/theme-customizations/).
+### At Work
 
-![Fern in Hand](/static/img/fern-in-hand.jpeg "Fern in Hand")
+Coding in React and Vue.js. Currently leading a refactor of an online learning platform. 
+
+### Learning
+
+* Vue composition API 
+* Aggregation pipelines in MongoDB 
+* Slack apps 
+* Ruby on Rails 
+* Piano and ukulele 
+
+### What have you been up to? 
+
+Singing in community choir, watching spooky movies, putting together this site.
+
+### What should we read?
+
+[A Woman is No Man by Etaf Rum](https://www.goodreads.com/book/show/34313931-a-woman-is-no-man)
+
+### URLS
+
+[treasureporth.com](treasureporth.com)
+
+<https://www.linkedin.com/in/treasureporth/>
+
+<https://github.com/trezp>

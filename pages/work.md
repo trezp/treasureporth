@@ -1,7 +1,6 @@
 ---
 title: Work
-subtitle: This is where you can describe your skills and talk about projects
-  you've worked on
+subtitle: ""
 date: 2021-03-15T06:33:06.713Z
 permalink: /work/index.html
 eleventyNavigation:
@@ -10,26 +9,27 @@ eleventyNavigation:
 ---
 ### 👩‍💻 Experience:
 
-#### Tesla
+#### Lumen Learning
 
 **Senior Software Engineer** *(2019 - Current)*
 
-* Collaborated with Elon Musk on 80,000 unique projects
-* Invented the Cyber Truck
+#### Treehouse
 
-#### Microsoft
+**Software Engineer Instructor III** *(2015 - 2019)*
 
-**Software Engineer** *(2014 - 2019)*
+#### Cinder Solutions
 
-* Maintained legacy Internet Explorer for 5 long years
+**Software Engineer** *(2015 - 2016)*
+
+#### Jast Media
+
+**Front End Developer** *(2015)*
 
 - - -
 
 ### 📚 Education:
 
-#### Harvard
+#### Portland State University
 
-**PhD Astronomy** *(2014 - 2015)*
-
-* Graduated top of my class when I was only 12 years old
-* Won Nobel Prize
+**MA, Adult Education**    
+**BA, Liberal Studies** 
