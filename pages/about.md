@@ -11,7 +11,7 @@ eleventyNavigation:
 #### Here's what I'm doing right [now now now](https://nownownow.com/about)
 
 
-<img src="/static/img/img_3178_adobespark.jpeg" width="200" alt="Image of Treasure Porth">
+<img src="/static/img/img_3178_adobespark.jpeg" style="width:200px" alt="Image of Treasure Porth">
 
 ### Location:
 
