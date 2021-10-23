@@ -8,15 +8,12 @@ eleventyNavigation:
   key: Now
   order: 1
 ---
-![Headshot of Treasure Porth](/static/img/img_3178_adobespark.jpeg)
-
 #### Here's what I'm doing right [now now now](https://nownownow.com/about)
 
+![Headshot of Treasure Porth](/static/img/img_3178_adobespark.jpeg)
 ### Location:
 
 Living in Portland, Oregon with my calico kitty, Peggy 
-
-
 
 ### Professional Title
 
