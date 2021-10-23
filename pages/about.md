@@ -8,11 +8,15 @@ eleventyNavigation:
   key: Now
   order: 1
 ---
+![Headshot of Treasure Porth](/static/img/img_3178_adobespark.jpeg)
+
 #### Here's what I'm doing right [now now now](https://nownownow.com/about)
 
 ### Location:
 
 Living in Portland, Oregon with my calico kitty, Peggy 
+
+
 
 ### Professional Title
 
@@ -30,7 +34,7 @@ Coding in React and Vue.js. Currently leading a refactor of an online learning p
 * Ruby on Rails 
 * Piano and ukulele 
 
-### What have you been up to? 
+### What have you been up to?
 
 Singing in community choir, watching spooky movies, putting together this site.
 
