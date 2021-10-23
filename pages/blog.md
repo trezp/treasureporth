@@ -1,11 +1,12 @@
 ---
 layout: layouts/blog.njk
 title: Articles
-date: 2017-01-01
+subtitle: Technical blog posts and perhaps other things
+metaDescription: ""
+date: 2021-10-23T03:27:14.517Z
 permalink: /blog/index.html
-metaDescription: A sample Blog page listing various posts and authors.
-subtitle: A collection of technical blog posts and random thoughts
 eleventyNavigation:
   key: Blog
   order: 2
 ---
+Coming soon!
