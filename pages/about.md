@@ -8,9 +8,10 @@ eleventyNavigation:
   key: Now
   order: 1
 ---
-![Picture of Treasure Porth](/static/img/img_3178_adobespark.jpeg)
-
 #### Here's what I'm doing right [now now now](https://nownownow.com/about)
+
+
+<img src="/static/img/img_3178_adobespark.jpeg" width="200" alt="Image of Treasure Porth">
 
 ### Location:
 
