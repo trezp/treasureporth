@@ -31,5 +31,13 @@ eleventyNavigation:
 
 #### Portland State University
 
-**MA, Adult Education**    
+**MA, Adult Education**\
 **BA, Liberal Studies** 
+
+- - -
+
+### 🔗 Links:
+
+##### [LinkedIn](https://www.linkedin.com/in/treasureporth/)
+
+##### [Github](https://github.com/trezp?tab=repositories)
