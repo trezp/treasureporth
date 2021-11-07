@@ -2,16 +2,12 @@
 section: contact
 layout: layouts/contact.njk
 title: Get in touch
-date: 2021-10-20
+subtitle: ""
+metaDescription: null
+date: 2021-10-23T03:51:03.282Z
 permalink: /contact/index.html
-metaDescription: 
-subtitle: Contact Subtitle
 eleventyNavigation:
   key: Contact
   order: 5
 ---
 
-The contact form on this page uses [Netlify Forms](https://www.netlify.com/docs/form-handling/) to process submissions,
-and saves them in the connected Netlify account where notifications can
-optionally be configured. Each submission is passed through a spam filter and
-if flagged, will display a CAPTCHA challenge to the user.

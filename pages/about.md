@@ -10,6 +10,9 @@ eleventyNavigation:
 ---
 #### Here's what I'm doing right [now now now](https://nownownow.com/about)
 
+
+<img src="/static/img/img_3178_adobespark.jpeg" style="width:200px" alt="Image of Treasure Porth">
+
 ### Location:
 
 Living in Portland, Oregon with my calico kitty, Peggy 
@@ -30,7 +33,7 @@ Coding in React and Vue.js. Currently leading a refactor of an online learning p
 * Ruby on Rails 
 * Piano and ukulele 
 
-### What have you been up to? 
+### What have you been up to?
 
 Singing in community choir, watching spooky movies, putting together this site.
 
