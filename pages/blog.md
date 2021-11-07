@@ -7,6 +7,6 @@ date: 2021-10-23T03:27:14.517Z
 permalink: /blog/index.html
 eleventyNavigation:
   key: Blog
-  order: 2
+  order: 4
 ---
 Coming soon!

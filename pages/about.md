@@ -8,7 +8,7 @@ eleventyNavigation:
   key: Now
   order: 1
 ---
-#### Here's what I'm doing right [now now now](https://nownownow.com/about)
+#### What I'm doing right [now now now](https://nownownow.com/about)
 
 
 <img src="/static/img/img_3178_adobespark.jpeg" style="width:200px" alt="Image of Treasure Porth">

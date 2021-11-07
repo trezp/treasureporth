@@ -1,43 +1,12 @@
 ---
+layout: layouts/projects.njk
 title: Work
-subtitle: ""
-date: 2021-03-15T06:33:06.713Z
-permalink: /work/index.html
+subtitle: Stuff I've Done
+metaDescription: A Work page
+date: 2021-10-23T03:29:20.005Z
+permalink: /projects/index.html
+emoji: 💻
 eleventyNavigation:
-  order: 3
   key: Work
+  order: 3
 ---
-### 👩‍💻 Experience:
-
-#### Lumen Learning
-
-**Senior Software Engineer** *(2019 - Current)*
-
-#### Treehouse
-
-**Software Engineer Instructor III** *(2015 - 2019)*
-
-#### Cinder Solutions
-
-**Software Engineer** *(2015 - 2016)*
-
-#### Jast Media
-
-**Front End Developer** *(2015)*
-
-- - -
-
-### 📚 Education:
-
-#### Portland State University
-
-**MA, Adult Education**\
-**BA, Liberal Studies** 
-
-- - -
-
-### 🔗 Links:
-
-##### [LinkedIn](https://www.linkedin.com/in/treasureporth/)
-
-##### [Github](https://github.com/trezp?tab=repositories)
