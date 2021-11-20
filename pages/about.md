@@ -19,7 +19,7 @@ Living in Portland, Oregon with my calico kitty, Peggy
 
 ### Professional Title
 
-Software Engineer, Front End 
+Senior Software Engineer, Front End 
 
 ### At Work
 
