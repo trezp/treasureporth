@@ -23,19 +23,19 @@ Software Engineer, Front End
 
 ### At Work
 
-Coding in React and Vue.js. Currently leading a refactor of an online learning platform. 
+Coding in React and Vue.js. Currently leading a redesign/refactor of an online learning platform. 
 
-### Learning
+### Currently Learning
 
-* Vue composition API 
-* Aggregation pipelines in MongoDB 
-* Slack apps 
-* Ruby on Rails 
+* Using Twilio APIS & Serverless with Vue.js 
+* MongoDB Atlas Cloud database, aggregation pipelines
+* Using Bolt for JavaScript and MongoDB to build Slack apps
+* Converting class-based React + alt state management to React context and hooks 
 * Piano and ukulele 
 
 ### What have you been up to?
 
-Singing in community choir, watching spooky movies, putting together this site.
+Singing in community choir, watching bad Christmas movies, putting together this site.
 
 ### What should we read?
 
