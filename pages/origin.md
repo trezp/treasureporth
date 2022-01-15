@@ -12,9 +12,9 @@ eleventyNavigation:
 
 ### Way Back When 
 
-In the early 2010s, my job was to affix barcodes to vials of saliva in a medical laboratory for $11 an hour. I would enter patient information into a computer, print out a little barcode sticker and paste it to a vial, and then repeat, vial after vial, all day, every day, seemingly for eternity. 
+In the early 2010s, my job was to affix barcodes to vials of saliva in a medical laboratory for $11 an hour. I would enter patient information into a computer, print out a little barcode sticker and paste it to a vial, and then repeat, vial after vial, all day, every day. 
  
-Let's just say it wasn't my life's ambition. I had a master's degree in Postsecondary Education, hard-earned as a first-generation college student. I had wanted to be GED or vocational instructor.
+Let's just say it wasn't my life's ambition. I had a master's degree in Postsecondary Education, hard-earned as a first-generation college student. I wanted to be GED or vocational instructor.
 
 But it was the recession. After my nonprofit job ran out of funds to pay me, I endured a long series of fruitless job interviews and finally went to work as a seasonal employee at Target. I wore a red polo shirt and bounced from temp job to temp job until I ended up at the lab, where my raw talent for affixing bar codes to vials of spit was so unparalleled they offered me a permanent full-time position.  
 
@@ -22,11 +22,11 @@ But it was the recession. After my nonprofit job ran out of funds to pay me, I e
 
 By 2014, I knew it was time for a _big_ change. 
 
-I was browsing jobs on my state employment website one day when I saw an ad for Code Oregon, a program that offered free online coding courses through Treehouse. _Get a job as a web developer!_ it read. 
+One day I was browsing jobs on my state employment website when I saw an ad for Code Oregon, a program offering free online coding courses through Treehouse. _Get a job as a web developer!_ it proclaimed. 
 
 I'd always been into computers. As a teaching assistant in college I taught small classes on how to build professional portfolios with Dreamweaver and Front Page. In the glory days of Livejournal I'd spend hours fiddling with the HTML and CSS of my journal templates. But I had no idea it was possible to become a developer without being a 14-year-old Math prodigy. And a boy. 
 
-I researched furiously. I learned about Treehouse, Codecademy, Code School, all the boot camps. Here was my chance at a living wage doing something I loved. Front End Development would the perfect marriage of logic and creativity for me. I was sure it had to be a "too good to be true" situation, but I happened to see on that very same day (I swear!) Facebook post from a college friend who'd attended a boot camp and landed an excellent job. 
+I researched furiously. I learned all the boot camps. Here was my chance at a living wage doing something I loved. Front End Development would the perfect marriage of logic and creativity for me. I was sure this had to be a "too good to be true" situation, but serendipitously on that very same day (I swear!) I saw Facebook post from a college friend who'd gone to boot camp and landed an amazing job. 
 
 I decided that's what I would do, too. I finished the entire front-end web development track on Treehouse, about 60 hours, grinding through the courses all night and stickering vials of saliva by day. I went to local meetups. I secured a grant to attend a local code school and studied five hours a day, five days a week for 16 weeks. I landed my first job at a small web and marketing startup just nine months after writing my first line of code.  
 
