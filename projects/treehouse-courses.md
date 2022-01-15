@@ -1,9 +1,9 @@
 ---
-title: Treehouse Courses
+title: My JavaScript Courses
 emoji: 🎓
-metaDescription: Treehouse courses taught by Treasure Porth
+metaDescription: Courses taught by Treasure Porth
 date: 2021-11-07T00:00:00.000Z
-summary: My courses for Treehouse
+summary: Courses I've scripted, screencasted and performed
 tags:
   - javascript
   - node
