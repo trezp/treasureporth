@@ -6,12 +6,12 @@ date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
   key: Now
-  order: 2
+  order: 4
 ---
 #### What I'm doing right [now now now](https://nownownow.com/about)
 
 
-<img src="/static/img/img_3178_adobespark.jpeg" style="width:200px" alt="Image of Treasure Porth">
+<img src="/static/img/clock.jpg" alt="Clock on a half green, half pink background">
 
 ### Location:
 
@@ -23,19 +23,18 @@ Senior Software Engineer, Front End
 
 ### At Work
 
-Coding in React and Vue.js. Currently leading a redesign/refactor of an online learning platform. 
+Coding in React and Vue.js, leading a project to build an adapative learning service for a math homework platform. 
 
 ### Currently Learning
 
-* Using Twilio APIS & Serverless with Vue.js 
-* MongoDB Atlas Cloud database, aggregation pipelines
+* Using Twilio APIS & Serverless with Vue.js
 * Using Bolt for JavaScript and MongoDB to build Slack apps
 * Converting class-based React + alt state management to React context and hooks 
 * Piano and ukulele 
 
 ### What have you been up to?
 
-Singing in community choir, watching bad Christmas movies, putting together this site.
+Winning at bar trivia, playing VR Tetris, and crocheting an avocado.
 
 ### What should we read?
 
