@@ -9,13 +9,17 @@ eleventyNavigation:
 ---
 ### 👩‍💻 Experience:
 
+#### Scrimba
+
+**Software Development Course Creator** *(2022 - Current)*
+
 #### Lumen Learning
 
-**Senior Software Engineer** *(2019 - Current)*
+**Senior Software Engineer** *(2019 - 2022)*
 
 #### Treehouse
 
-**Software Engineer Instructor III** *(2015 - 2019)*
+**Software Dev Course Creator, Fullstack JavaScript** *(2015 - 2019)*
 
 #### Cinder Solutions
 

@@ -19,22 +19,23 @@ Living in Portland, Oregon with my calico kitty, Peggy
 
 ### Professional Title
 
-Senior Software Engineer, Front End 
+Software Development Instructor and Course Creator
 
 ### At Work
 
-Coding in React and Vue.js, leading a project to build an adapative learning service for a math homework platform. 
+I recently began a new position as a course creator at [Scrimba](https://scrimba.com/). My first
+contribution was about learning git with GitHub Desktop. I'm currently creating a series 
+of coding challenges to help students assess their knowledge and feel more confident about working
+with APIs. 
 
 ### Currently Learning
-
-* Using Twilio APIS & Serverless with Vue.js
-* Using Bolt for JavaScript and MongoDB to build Slack apps
-* Converting class-based React + alt state management to React context and hooks 
+* Twilio APIs 
+* Python and Flask
 * Piano and ukulele 
 
 ### What have you been up to?
 
-Winning at bar trivia, playing VR Tetris, and crocheting an avocado.
+Singing in a choir, reading door stop fantasy novels, and looking forward to tech conferences being a thing again! 
 
 ### What should we read?
 
