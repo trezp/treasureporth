@@ -15,27 +15,24 @@ eleventyNavigation:
 
 ### Location:
 
-Living in Portland, Oregon with my calico kitty, Peggy 
+Living in Portland, Oregon with my senior kitty, Peggy 
 
 ### Professional Title
 
-Software Development Instructor and Course Creator
+Technical Content Developer - Front End
 
 ### At Work
 
-I recently began a new position as a course creator at [Scrimba](https://scrimba.com/). My first
-contribution was about learning git with GitHub Desktop. I'm currently creating a series 
-of coding challenges to help students assess their knowledge and feel more confident about working
-with APIs. 
+I'm currently a course developer at [Scrimba](https://scrimba.com/). My most recent course, Prompt Engineering for Web Developers, teaches students how harness the power of free AI language models like ChatGPT to supercharge their productivity, learning and professional growth. 
 
 ### Currently Learning
+* Brushing up on advanced React and React Router 
 * Twilio APIs 
-* Python and Flask
-* Piano and ukulele 
+* Slack bots 
 
 ### What have you been up to?
 
-Singing in a choir, reading door stop fantasy novels, and looking forward to tech conferences being a thing again! 
+Singing in a barbershop chorus, karaoke, reading fiction.   
 
 ### What should we read?
 
