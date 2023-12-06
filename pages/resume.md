@@ -11,7 +11,7 @@ eleventyNavigation:
 
 #### Scrimba
 
-**Software Development Course Creator** *(2022 - Current)*
+**Technical Content Developer** *(2022 - Current)*
 
 #### Lumen Learning
 
