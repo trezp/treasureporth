@@ -1,17 +1,18 @@
 :root {
-  /* Brand Colors */
-  --color-primary: #222222;
-  --color-secondary: #2f5bc2;
+/* Brand Colors */
+--color-primary: #800080; /* Dark Purple */
+--color-secondary: #640064; /* Slightly Darker Purple */
 
-  /* Background Colors */
-  --color-bg: #ffffff;
-  --color-bg-secondary: #f7f7f7;
-  --color-bg-accent: #05082b;
+/* Background Colors */
+--color-bg: #1A1A1A; /* Very Dark Gray */
+--color-bg-secondary: #282828; /* Dark Gray */
+--color-bg-accent: #8A2BE2; /* Vibrant Purple */
 
-  /* Text and Border Colors */
-  --color-text: #222222;
-  --color-text-alt: #ffffff;
-  --color-border: rgba(0, 0, 0, 0.06);
+/* Text and Border Colors */
+--color-text: #B9B4C7; /* Light Lavender (High Contrast) */
+--color-text-alt: #FAF0E6; /* Off-White (Highest Contrast) */
+--color-border: #5C5470; /* Muted Purple-Gray (Matches Accent Background) */
+
 
   /* Status Colors */
   --color-danger: #e03e3e;
