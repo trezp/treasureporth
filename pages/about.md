@@ -26,9 +26,9 @@ Technical Content Developer - Front End
 I'm currently a course developer at [Scrimba](https://scrimba.com/). My most recent course, Prompt Engineering for Web Developers, teaches students how harness the power of free AI language models like ChatGPT to supercharge their productivity, learning and professional growth. 
 
 ### Currently Learning
-* Brushing up on advanced React and React Router 
-* Twilio APIs 
-* Slack bots 
+* Brushing up on Typescript
+* TensorFlow and Dialogflow  
+* Next.js  
 
 ### What have you been up to?
 

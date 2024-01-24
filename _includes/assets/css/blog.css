@@ -46,9 +46,9 @@
 .tag {
   margin: 10px 10px 0 0;
   padding: 6px 8px;
-  background-color: var(--color-bg-secondary);
+  background-color: var(--color-secondary);
   border-radius: var(--border-radius-sm);
-  color: var(--color-secondary);
+  color: var(--color-text-alt);
   white-space: nowrap;
   font-size: 13px;
   font-weight: 500;

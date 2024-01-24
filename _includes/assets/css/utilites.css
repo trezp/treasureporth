@@ -51,3 +51,8 @@
   color: var(--color-text-alt);
   filter: brightness(90%);
 }
+
+.link-darkmode {
+  color: var(--color-bg-accent);
+}
+
