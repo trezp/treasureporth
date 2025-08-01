@@ -1,47 +1,50 @@
 ---
 title: Resume
 subtitle: ""
-date: 2021-03-15T06:33:06.713Z
+date: 2025-07-30T00:00:00.000Z
 permalink: /resume/index.html
 eleventyNavigation:
   order: 2
   key: Resume
 ---
-### 👩‍💻 Experience:
 
-#### Scrimba
+## 👩‍💻 Experience
 
-**Technical Content Developer** *(2022 - Current)*
+#### Pluralsight  
+**Technical Content Developer** (2024 – 2025)  
+Designed and produced self-paced developer training from concept to final video, blending clear code with adult learning theory.
 
-#### Lumen Learning
+#### Scrimba  
+**Technical Content Developer** (2022 – 2023)  
+Built interactive coding courses with embedded screencasts and challenges, focused on engagement, clarity, and accessibility.
 
-**Senior Software Engineer** *(2019 - 2022)*
+#### Lumen Learning  
+**Senior Software Engineer** (2019 – 2022)  
+Developed accessible learning tools for higher ed platforms, supported LMS compatibility, and led technical documentation efforts.
 
-#### Treehouse
+#### Treehouse  
+**Curriculum Developer & Program Coordinator** (2015 – 2019)  
+Created fullstack JavaScript courses and led a national coding bootcamp, emphasizing learner support and instructional clarity.
 
-**Software Dev Course Creator, Fullstack JavaScript** *(2015 - 2019)*
+#### Cinder Solutions  
+**Software Engineer** (2015 – 2016)  
+Helped convert a legacy web app into a modern single-page application using Angular, improving performance and modularity.
 
-#### Cinder Solutions
+#### Jast Media  
+**Front End Developer** (2015)  
+Developed responsive websites and custom components for clients in wellness and healthcare industries.
 
-**Software Engineer** *(2015 - 2016)*
+---
 
-#### Jast Media
+### 📚 Education
 
-**Front End Developer** *(2015)*
+#### Portland State University  
+**MA, Postsecondary, Adult, and Continuing Education**  
+**BA, Arts and Letters** – *Magna Cum Laude*
 
-- - -
+---
 
-### 📚 Education:
+### 🔗 Links
 
-#### Portland State University
-
-**MA, Adult Education**\
-**BA, Liberal Studies** 
-
-- - -
-
-### 🔗 Links:
-
-##### [LinkedIn](https://www.linkedin.com/in/treasureporth/)
-
-##### [Github](https://github.com/trezp?tab=repositories)
+- [LinkedIn](https://www.linkedin.com/in/treasureporth/)  
+- [GitHub](https://github.com/trezp?tab=repositories)
