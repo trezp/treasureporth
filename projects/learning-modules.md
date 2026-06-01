@@ -3,7 +3,7 @@ title: Instructional Design and Teaching
 emoji: 🎓
 metaDescription: A selection of online learning modules I've created and taught
 date: 2023-11-07T00:00:00.000Z
-summary: Featured courses and video tutorials I've developed—from scripting and editing to delivery.
+summary: Courses and video tutorials I've built, scripted, and taught. Mostly focused on JavaScript, APIs, and AI tools for developers.
 tags:
   - ai 
   - javascript
@@ -17,16 +17,14 @@ tags:
 
 ### 🧠 JavaScript Interview Prep  
 **Platform:** Scrimba + Coursera  
-**Audience:** Intermediate developers preparing for interviews  
-Helped learners build problem-solving confidence through bite-sized, interactive coding challenges with real-world relevance.  
+Built to help intermediate devs prep for technical interviews with short, focused coding challenges. Less theory, more practice.  
 🔗 [View the course](https://scrimba.com/learn/interviewchallenges)
 
 ---
 
 ### ⚙️ Building APIs with Express  
 **Platform:** Treehouse  
-**Audience:** Beginner–intermediate web developers  
-Designed a progressive learning experience for building RESTful APIs, with an emphasis on asynchronous code patterns and practical debugging.  
+Two courses covering RESTful API design and async patterns. Focused on the kind of debugging and structure you run into on the job.  
 🔗 [REST APIs with Express](https://teamtreehouse.com/library/rest-apis-with-express)  
 🔗 [Async Code in Express](https://teamtreehouse.com/library/asynchronous-code-in-express)
 
@@ -34,16 +32,14 @@ Designed a progressive learning experience for building RESTful APIs, with an em
 
 ### 🤖 Prompt Engineering for Developers  
 **Platform:** Scrimba + Coursera  
-**Audience:** Frontend developers exploring AI integration  
-Created an accessible on-ramp to LLMs for web devs, emphasizing practical workflows and ethical AI usage.  
+An accessible intro to working with LLMs, written for web devs who want practical workflows, not hype.  
 🔗 [Prompt Engineering for Web Developers](https://scrimba.com/learn/promptengineering)
 
 ---
 
 ### 💻 Web Foundations: HTML, CSS & Vue  
 **Platform:** Treehouse  
-**Audience:** New coders and career switchers  
-Introduced core concepts in modern front-end development, emphasizing hands-on practice and approachability.  
+Beginner-friendly courses built for people switching careers or picking up their first web framework.  
 🔗 [Intro to HTML and CSS](https://teamtreehouse.com/library/introduction-to-html-and-css)  
 🔗 [Vue.js Basics](https://teamtreehouse.com/library/vuejs-basics)
 
@@ -51,8 +47,7 @@ Introduced core concepts in modern front-end development, emphasizing hands-on p
 
 ### 🌐 Deployment Made Easy  
 **Platform:** Scrimba  
-**Audience:** Beginners ready to publish projects  
-Guided learners through deploying static and dynamic sites with Netlify.  
+A quick guide to getting projects live with Netlify, aimed at beginners ready to stop working locally.  
 🔗 [Deploying with Netlify](https://scrimba.com/learn/netlify)
 
 ---

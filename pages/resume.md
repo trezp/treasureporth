@@ -10,29 +10,33 @@ eleventyNavigation:
 
 ## 👩‍💻 Experience
 
+#### Freelance  
+**Curriculum Developer & Content Creator** (2025 – present)  
+Developing courses, scripts, and learning content for tech companies and platforms on a contract basis.
+
 #### Pluralsight  
 **Technical Content Developer** (2024 – 2025)  
-Designed and produced self-paced developer training from concept to final video, blending clear code with adult learning theory.
+Designed and produced self-paced developer courses from concept to final video, handling scripting, technical demos, and production coordination.
 
 #### Scrimba  
 **Technical Content Developer** (2022 – 2023)  
-Built interactive coding courses with embedded screencasts and challenges, focused on engagement, clarity, and accessibility.
+Built interactive coding courses with embedded screencasts and in-browser challenges, focused on keeping things clear and engaging to work through.
 
 #### Lumen Learning  
 **Senior Software Engineer** (2019 – 2022)  
-Developed accessible learning tools for higher ed platforms, supported LMS compatibility, and led technical documentation efforts.
+Built accessible learning tools for higher ed platforms, improved LMS compatibility, and wrote a lot of documentation.
 
 #### Treehouse  
 **Curriculum Developer & Program Coordinator** (2015 – 2019)  
-Created fullstack JavaScript courses and led a national coding bootcamp, emphasizing learner support and instructional clarity.
+Spent four years creating fullstack JavaScript courses and running a national coding bootcamp. A lot of teaching, a lot of scripting, and a real education in what good instructional design looks like.
 
 #### Cinder Solutions  
 **Software Engineer** (2015 – 2016)  
-Helped convert a legacy web app into a modern single-page application using Angular, improving performance and modularity.
+Helped migrate a legacy web app to a modern single-page application using Angular.
 
 #### Jast Media  
 **Front End Developer** (2015)  
-Developed responsive websites and custom components for clients in wellness and healthcare industries.
+Built responsive websites and custom components for clients in wellness and healthcare.
 
 ---
 

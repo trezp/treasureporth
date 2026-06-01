@@ -3,7 +3,7 @@ title: Explainers, Demos and Promos
 emoji: 🎥
 metaDescription: Video tutorials and promotional content featuring Treasure Porth
 date: 2021-11-07T00:00:00.000Z
-summary: A collection of tutorials, explainers, and developer-focused content I've written, hosted, or helped produce.
+summary: Videos I wrote, presented, and helped produce. Includes a FreeCodeCamp tutorial on prompt engineering and Treehouse explainers on Vue.js and getting into frontend development.
 tags:
   - javascript
   - node
@@ -14,7 +14,7 @@ tags:
 
 ## Video Features & Tutorials
 
-Over the years, I've created a variety of developer-facing video content—ranging from instructional walkthroughs to promotional explainers. Below are a few public-facing highlights.
+Below are a few things I wrote, presented, and helped produce.
 
 ---
 
