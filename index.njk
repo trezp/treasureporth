@@ -4,29 +4,28 @@ section: home
 ---
 
 <div class="home-page">
-  <div class="home-page__bg-square"></div>
   <div class="hero">
-    <div class="hero__col">
-      <h1 class="hero__title gradient-text">{{ home.title }}</h1>
-      {% if home.subtitle %}
-        <h2 class="hero__subtitle">{{ home.subtitle }}</h2>
-      {% endif %}
-      {% if home.blurb %}
-        <p class="hero__subtitle">{{ home.blurb }}</p>
-      {% endif %}
+    <div class="hero__intro">
+      <img class="hero__image" src="{{ home.image }}" alt="{{ home.image_alt }}"/>
+      <div class="hero__name">
+        <h1 class="hero__title gradient-text">{{ home.title }}</h1>
+        {% if home.subtitle %}
+          <h2 class="hero__subtitle">{{ home.subtitle }}</h2>
+        {% endif %}
+      </div>
     </div>
-    <div class="hero__col">
-      <img class="hero__image shadow" src={{ home.image }} alt={{ img.alt }}/>
-    </div>
+    {% if home.blurb %}
+      <p class="hero__blurb">{{ home.blurb }}</p>
+    {% endif %}
   </div>
   <hr>
-    <h2>Work</h2>
-    {% set projectlist = collections.project %}
-    {% include "components/projectlist.njk" %}
-    <hr>
-      <h2>Articles</h2>
-      {% set postslist = collections.post %}
-      {% set show_postslist_tags = false %}
-      {% set limit = 3 %}
-      {% include "components/postslist.njk" %}
-    </div>
+  <h2>Work</h2>
+  {% set projectlist = collections.project %}
+  {% include "components/projectlist.njk" %}
+  <hr>
+  <h2>Articles</h2>
+  {% set postslist = collections.post %}
+  {% set show_postslist_tags = false %}
+  {% set limit = 3 %}
+  {% include "components/postslist.njk" %}
+</div>
