@@ -87,7 +87,8 @@ a {
 
 a:hover {
   color: var(--color-primary);
-  border-bottom: 2px solid var(--color-primary);
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 
 ul {

@@ -45,6 +45,7 @@
 .project-card__title {
   display: block;
   color: var(--color-text);
+  padding: 4px 0;
 }
 
 .project-card__tag {

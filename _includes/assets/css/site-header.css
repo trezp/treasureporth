@@ -70,9 +70,10 @@
   align-items: center;
   color: var(--color-text);
   letter-spacing: 0.04em;
+  padding: 12px 4px;
 }
 
 .site-header__link:hover {
-  border-bottom: none;
+  text-decoration: none;
 }
 

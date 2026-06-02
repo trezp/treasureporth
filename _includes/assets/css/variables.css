@@ -1,17 +1,18 @@
 :root {
 /* Brand Colors */
---color-primary: #0D9488; /* Teal */
+--color-primary: #14B8A6; /* Teal */
 --color-secondary: #0F766E; /* Darker Teal */
+--color-accent: #8B45C4; /* Purple */
 
 /* Background Colors */
---color-bg: #1E2030; /* Dark Blue-Slate */
---color-bg-secondary: #262B40; /* Slightly Lighter Slate */
---color-bg-accent: #232838; /* Mid Slate */
+--color-bg: #1C1829; /* Warm Dark Purple-Slate */
+--color-bg-secondary: #251E38; /* Slightly Lighter Warm Slate */
+--color-bg-accent: #201B31; /* Mid Warm Slate */
 
 /* Text and Border Colors */
---color-text: #C8CDD8; /* Cool Light Gray */
---color-text-alt: #F0F4F8; /* Near White */
---color-border: #3D4560; /* Muted Slate-Blue */
+--color-text: #E8E3F4; /* Warm Near-White */
+--color-text-alt: #F0EEF8; /* Bright Near-White */
+--color-border: #3D3562; /* Muted Warm Slate */
 
 
   /* Status Colors */
@@ -23,6 +24,7 @@
   --font-family-secondary: 'Space Grotesk', sans-serif, Roboto,
   "Helvetica Neue", Arial, "Noto Sans", sans-serif;
   --font-family-heading: var(--font-family-secondary);
+  --font-family-display: 'Playfair Display', Georgia, serif;
 
   /* Sizes */
   --site-width: 850px;

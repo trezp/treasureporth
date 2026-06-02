@@ -16,13 +16,11 @@ tags:
 
 Below are a few things I wrote, presented, and helped produce.
 
----
 
 ### 📺 FreeCodeCamp  
 Hosted and co-produced in partnership with Scrimba, this video introduces developers to prompt engineering concepts in a way that’s practical, clear, and code-focused.  
 🔗 [Prompt Engineering for Web Developers](https://www.youtube.com/watch?v=ScKCy2udln8&ab_channel=freeCodeCamp.org)
 
----
 
 ### 🧑‍🏫 Explainers & Promo Videos  
 Created for Treehouse to support and promote the platform’s course offerings and core philosophy.
