@@ -69,6 +69,7 @@
   display: flex;
   align-items: center;
   color: var(--color-text);
+  letter-spacing: 0.04em;
 }
 
 .site-header__link:hover {

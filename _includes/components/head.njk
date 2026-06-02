@@ -1,12 +1,13 @@
 <head>
   <meta charset="utf-8">
-    <link rel="dns-prefetch" href="https://identity.netlify.com">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="dns-prefetch" href="https://identity.netlify.com">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>{{ renderData.title or title or metadata.title }}</title>
         <meta name="description" content="{{ metaDescription or renderData.metaDescription or summary or metadata.description }}">
           <link rel="preconnect" href="https://fonts.googleapis.com">
             <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-              <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100&family=Open+Sans&display=swap" rel="stylesheet">
+              <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Sora:wght@300;400;500&display=swap" rel="stylesheet">
                 <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
                 {% set css %}
                 {% include "assets/css/normalize.css" %}
