@@ -16,15 +16,13 @@
 
 .hero {
   margin-top: 40px;
-  display: flex;
-  flex-direction: column;
-  gap: 2rem;
+  margin-bottom: 60px;
 }
 
 .hero__intro {
   display: flex;
-  align-items: flex-start;
-  gap: 2rem;
+  align-items: center;
+  gap: 2.5rem;
 }
 
 .hero__image {
@@ -35,33 +33,29 @@
   border-radius: 50%;
   border: 2px solid var(--color-primary);
   flex-shrink: 0;
-  filter: grayscale(100%);
-  transition: filter 0.4s ease;
-}
-
-.hero__image:hover {
-  filter: grayscale(0%);
-}
-
-.hero__name {
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
 }
 
 .hero__title,
-.hero__subtitle {
+.hero__subtitle,
+.hero__blurb {
   margin-top: 0;
   margin-bottom: 0;
+}
+
+.hero__title {
+  transform: translateY(-0.2em);
+}
+
+.hero__subtitle {
+  margin-top: 1.5rem;
+}
+
+.hero__blurb {
+  margin-top: 1rem;
 }
 
 @media (min-width: 1024px) {
   .hero__title {
     font-size: 3.3em;
   }
-}
-
-.hero__blurb {
-  max-width: 65ch;
-  margin-bottom: 0;
 }

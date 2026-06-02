@@ -7,13 +7,11 @@ section: home
   <div class="hero">
     <div class="hero__intro">
       <img class="hero__image" src="{{ home.image }}" alt="{{ home.image_alt }}"/>
-      <div class="hero__name">
-        <h1 class="hero__title gradient-text">{{ home.title }}</h1>
-        {% if home.subtitle %}
-          <h2 class="hero__subtitle">{{ home.subtitle }}</h2>
-        {% endif %}
-      </div>
+      <h1 class="hero__title gradient-text">{{ home.title }}</h1>
     </div>
+    {% if home.subtitle %}
+      <h2 class="hero__subtitle">{{ home.subtitle }}</h2>
+    {% endif %}
     {% if home.blurb %}
       <p class="hero__blurb">{{ home.blurb }}</p>
     {% endif %}
