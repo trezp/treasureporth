@@ -11,5 +11,3 @@ tags:
 Python shows up everywhere now, from AI tooling to data pipelines to automation scripts. This course covers the fundamentals from scratch and is designed to get developers comfortable with the language quickly, wherever they're starting from.
 
 Currently in development for Scrimba. More to come when it ships.
-
-More to come when it ships.
