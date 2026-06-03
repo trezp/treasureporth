@@ -1,7 +1,7 @@
 ---
 title: Now
 subtitle: ""
-metaDescription: This page is all about me
+metaDescription: What Treasure Porth is focused on right now — job search, skills, and life in Portland
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
@@ -9,28 +9,16 @@ eleventyNavigation:
   order: 4
 ---
 
-<img src="/static/img/tenmilelake.jpg" alt="Clock on a half green, half pink background">
-
 ### Now
-I’m living in Portland, where this year’s summer has been long, hot, and a little too intense for my Pacific Northwest blood. I’m counting the days until fall, when I can bundle up and drink hot lattes again!
 
-Right now, I'm focused on landing my next role in tech education, instructional design, or learning and development. I'm seeking a role where I can make a meaningful impact with an established, focused and stable organization. 
+I'm living in Portland, enjoying the transition from a long, rainy spring into what's shaping up to be a warm summer. The lattes are getting iced, and I'm not complaining.
 
-### Balancing Work and Play
-While I’ve been updating my resume and polishing my portfolio, I’ve also made time for a few summer highlights:
-– a peaceful cabin retreat in Bay City (with a nostalgic stop at the Tillamook cheese factory)
-– a weekend of glitter, music, and friends at Portland Pride
-– a three-day pontoon boat trip on Tenmile Lake, which was as good as it sounds
+Right now, I'm focused on landing my next role in technical instructional design, curriculum development, or learning and development. I'm looking for a place where I can make a meaningful impact with an established, focused, and stable organization.
 
-### Studying Up 
-Between job applications, I’m keeping my skills sharp via several Coursera courses on Learning and Development, Instructional Design, and AI. I'm also learning Articulate before my trial runs out, visiting local parks to brush up on my iPhone photography skills, and gaming with my partner when it's too hot to go outside. 
+### Studying Up
 
-### URLS
+Between projects and applications, I'm keeping my skills sharp. I've been working through Coursera courses on Learning and Development, Instructional Design, and AI. I'm also building fluency in Articulate and keeping an eye on how AI tools are changing the landscape for technical content creators.
 
-[treasureporth.com](treasureporth.com)
-
-<https://www.linkedin.com/in/treasureporth/>
-
-<https://github.com/trezp>
+On the creative side, I've been visiting local parks with my camera and gaming with my partner when the weather makes that feel like the right call.
 
 #### Inspired by [now now now](https://nownownow.com/about)

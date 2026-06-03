@@ -34,7 +34,7 @@
 
 .home-section--work {
   background: var(--color-bg-secondary);
-  padding: 40px 0 60px;
+  padding: 40px 0 30px;
 }
 
 .home-section--work .project-card {
@@ -43,6 +43,43 @@
 
 .home-section--articles {
   padding: 40px 0 60px;
+}
+
+.home-section--skills {
+  background: var(--color-bg);
+  padding: 40px 0 60px;
+}
+
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  margin-top: 1.5rem;
+}
+
+.skills-group h3 {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.5rem;
+  color: var(--color-text-secondary, currentColor);
+  opacity: 0.7;
+}
+
+.skills-group p {
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .skills-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 500px) {
+  .skills-grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 .hero {

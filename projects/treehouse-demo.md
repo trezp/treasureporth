@@ -4,6 +4,7 @@ emoji: 🎬
 metaDescription: Clips from Treehouse
 date: 2021-11-04T00:00:00.000Z
 summary: Clips from courses I wrote, taught, and produced at Treehouse, where I handled everything from scripting to on-camera delivery.
+eleventyExcludeFromCollections: true
 tags:
   - javascript
   - node

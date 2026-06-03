@@ -4,6 +4,7 @@ emoji: ✨
 metaDescription: Older work samples
 date: 2020-11-07T00:00:00.000Z
 summary: A collection of web development work from earlier in my career.
+eleventyExcludeFromCollections: true
 tags:
   - javascript
   - html/css

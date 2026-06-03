@@ -1,9 +1,9 @@
 ---
-title: Instructional Design and Teaching
+title: Courses & Curriculum
 emoji: 🎓
-metaDescription: A selection of online learning modules I've created and taught
-date: 2023-11-07T00:00:00.000Z
-summary: Courses and video tutorials I've built, scripted, and taught. Mostly focused on JavaScript, APIs, and AI tools for developers.
+metaDescription: A selection of courses and learning modules I've designed, scripted, and taught
+date: 2024-06-01T00:00:00.000Z
+summary: Courses I designed, scripted, and taught across Scrimba, Coursera, and Treehouse. Focused on JavaScript, APIs, and AI tools for developers.
 tags:
   - ai 
   - javascript
@@ -13,7 +13,7 @@ tags:
   - html/css
 ---
 
-## Featured Modules
+## Featured Courses
 
 ### 🧠 JavaScript Interview Prep  
 **Platform:** Scrimba + Coursera  
@@ -26,12 +26,6 @@ Built to help intermediate devs prep for technical interviews with short, focuse
 Two courses covering RESTful API design and async patterns. Focused on the kind of debugging and structure you run into on the job.  
 🔗 [REST APIs with Express](https://teamtreehouse.com/library/rest-apis-with-express)  
 🔗 [Async Code in Express](https://teamtreehouse.com/library/asynchronous-code-in-express)
-
-
-### 🤖 Prompt Engineering for Developers  
-**Platform:** Scrimba + Coursera  
-An accessible intro to working with LLMs, written for web devs who want practical workflows, not hype.  
-🔗 [Prompt Engineering for Web Developers](https://scrimba.com/learn/promptengineering)
 
 
 ### 💻 Web Foundations: HTML, CSS & Vue  

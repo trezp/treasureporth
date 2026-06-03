@@ -24,18 +24,37 @@ section: home
   </div>
   <div class="home-section home-section--work">
     <div class="home-section__inner">
-      <h2>Work</h2>
+      <h2>Portfolio</h2>
       {% set projectlist = collections.project %}
       {% include "components/projectlist.njk" %}
     </div>
   </div>
-  <div class="home-section home-section--articles">
+  <div class="home-section home-section--skills">
     <div class="home-section__inner">
-      <h2>Articles</h2>
-      {% set postslist = collections.post %}
-      {% set show_postslist_tags = false %}
-      {% set limit = 3 %}
-      {% include "components/postslist.njk" %}
+      <h2>Tools & Skills</h2>
+      <div class="skills-grid">
+        <div class="skills-group">
+          <h3>Curriculum & Content</h3>
+          <p>Camtasia, Loom, Articulate (in progress), Canva, Google Slides, Google Docs, Markdown</p>
+        </div>
+        <div class="skills-group">
+          <h3>Platforms & LMS</h3>
+          <p>Scrimba, Pluralsight, Treehouse, Coursera, Canvas</p>
+        </div>
+        <div class="skills-group">
+          <h3>Collaboration & Documentation</h3>
+          <p>Zoom, Slack, Notion, Confluence, Calendly, GitHub</p>
+        </div>
+        <div class="skills-group">
+          <h3>Research & Feedback</h3>
+          <p>Google Forms, SurveyMonkey</p>
+        </div>
+        <div class="skills-group">
+          <h3>Development</h3>
+          <p>JavaScript, Node.js, Python, HTML/CSS, VS Code</p>
+        </div>
+      </div>
     </div>
   </div>
+
 </div>

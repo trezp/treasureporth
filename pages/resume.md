@@ -16,7 +16,7 @@ Developing courses, scripts, and learning content for tech companies and platfor
 
 #### Pluralsight  
 **Technical Content Developer** (2024 – 2025)  
-Designed and produced self-paced developer courses from concept to final video, handling scripting, technical demos, and production coordination.
+Designed and produced 8 self-paced developer courses from concept to final video, handling scripting, technical demos, and production coordination. Courses averaged 4.4 stars across 21 ratings.
 
 #### Scrimba  
 **Technical Content Developer** (2022 – 2023)  
@@ -37,6 +37,25 @@ Helped migrate a legacy web app to a modern single-page application using Angula
 #### Jast Media  
 **Front End Developer** (2015)  
 Built responsive websites and custom components for clients in wellness and healthcare.
+
+---
+
+### 🛠 Tools & Skills
+
+**Curriculum & Content**  
+Camtasia, Loom, Articulate (in progress), Canva, Google Slides, Google Docs, Markdown
+
+**Platforms & LMS**  
+Scrimba, Pluralsight, Treehouse, Coursera, Canvas
+
+**Collaboration & Documentation**  
+Zoom, Slack, Notion, Confluence, Calendly, GitHub
+
+**Research & Feedback**  
+Google Forms, SurveyMonkey
+
+**Development**  
+JavaScript, Node.js, Python, HTML/CSS, VS Code
 
 ---
 
