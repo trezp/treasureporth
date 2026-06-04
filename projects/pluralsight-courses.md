@@ -4,7 +4,7 @@ emoji: 🎯
 metaDescription: Eight developer courses produced for Pluralsight, covering Node, Express, NestJS, Web Components, and modern JavaScript tooling.
 date: 2025-07-07T00:00:00.000Z
 summary: Eight self-paced courses produced for Pluralsight, covering backend development, modern JavaScript tooling, and web platform fundamentals. Rated 4.4 stars across 21 ratings.
-image: /static/img/pluralsight-express-slide.png
+image: /static/img/pluralsight-deno-slide.png
 tags:
   - javascript
   - node

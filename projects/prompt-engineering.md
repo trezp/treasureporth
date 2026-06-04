@@ -4,7 +4,7 @@ emoji: 🤖
 metaDescription: A course on practical prompt engineering for web developers, published on Scrimba and Coursera and featured on FreeCodeCamp.
 date: 2024-09-01T00:00:00.000Z
 summary: A practical intro to working with LLMs, designed for web developers. Published on Scrimba and cross-listed on Coursera, with an accompanying tutorial hosted on FreeCodeCamp.
-image: /static/img/coursera-prompt-engineering.png
+image: /static/img/prompt-engineering-title.png
 tags:
   - ai
   - javascript
