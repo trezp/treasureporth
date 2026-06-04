@@ -40,12 +40,12 @@
   object-position: center center;
   display: block;
   border-radius: var(--border-radius-sm) var(--border-radius-sm) 0 0;
-  border: 1px solid var(--color-border);
+  border: 1px solid rgba(255, 255, 255, 0.2);
   border-bottom: none;
 }
 
 .project-screenshot {
-  max-width: 560px;
+  max-width: 100%;
   display: block;
   border-radius: var(--border-radius-sm);
   border: 1px solid var(--color-border);
@@ -56,10 +56,13 @@
   display: flex;
   gap: 1rem;
   margin: 1.5rem 0;
+  max-width: 100%;
 }
 
 .screenshot-pair .project-screenshot {
   flex: 1;
+  min-width: 0;
+  width: 100%;
   max-width: none;
   margin: 0;
 }
