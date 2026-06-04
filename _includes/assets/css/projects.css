@@ -58,6 +58,7 @@
 
 .project-card__title:hover {
   text-decoration: none;
+  color: var(--color-text);
 }
 
 .project-card__title::after {
