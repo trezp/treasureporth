@@ -29,10 +29,32 @@ document.addEventListener('DOMContentLoaded', function () {
   var particles = [];
   var colors = ['#5EEAD4', '#A5F3FC', '#8B45C4', '#C084FC', '#ffffff'];
   var animating = true;
+  var clearZone = null;
+  var padding = 24;
+
+  function updateClearZone() {
+    var textEl = document.querySelector('.hero__text');
+    if (!textEl) { clearZone = null; return; }
+    var canvasRect = canvas.getBoundingClientRect();
+    var textRect = textEl.getBoundingClientRect();
+    clearZone = {
+      left:   textRect.left   - canvasRect.left - padding,
+      top:    textRect.top    - canvasRect.top  - padding,
+      right:  textRect.right  - canvasRect.left + padding,
+      bottom: textRect.bottom - canvasRect.top  + padding
+    };
+  }
+
+  function inClearZone(x, y) {
+    if (!clearZone) return false;
+    return x > clearZone.left && x < clearZone.right &&
+           y > clearZone.top  && y < clearZone.bottom;
+  }
 
   function resize() {
     canvas.width = canvas.offsetWidth;
     canvas.height = canvas.offsetHeight;
+    updateClearZone();
   }
 
   function drawSparkle(x, y, r, color, opacity, rotation) {
@@ -74,6 +96,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   function init() {
     resize();
+    updateClearZone();
     particles = [];
     for (var i = 0; i < 70; i++) {
       particles.push(createParticle());
@@ -84,6 +107,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (!animating) return;
     ctx.clearRect(0, 0, canvas.width, canvas.height);
     particles.forEach(function (p) {
+      if (inClearZone(p.x, p.y)) return;
       var twinkle = Math.sin((timestamp || 0) * p.twinkleSpeed + p.phase);
       var opacity = Math.max(0, Math.min(1, p.baseOpacity + twinkle * p.twinkleAmount));
       p.rotation += p.rotationSpeed;
