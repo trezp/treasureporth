@@ -22,13 +22,13 @@
   border-radius: var(--border-radius-sm);
   position: relative;
   cursor: pointer;
-  transition: transform 0.6s ease-out, border-color 0.6s ease-out;
+  transition: transform 0.2s ease-out, border-color 0.4s ease-out;
 }
 
 .project-card:hover {
-  transform: translateY(-5px);
+  transform: translateY(-6px);
   border-color: var(--color-primary);
-  border-left-color: var(--color-primary);
+  border-left-color: var(--color-accent);
 }
 
 .project-card h4 {
