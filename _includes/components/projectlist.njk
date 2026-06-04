@@ -7,7 +7,7 @@
         {% endif %}
         <h4>
           <a class="project-card__title" href="{{ post.url | url }}">
-            {% if post.data.title %}
+            {% if post.data.title and not post.data.image %}
               <span class="project-card__emoji">{{ post.data.emoji }}</span>
             {% endif %}
             {% if post.data.title %}
