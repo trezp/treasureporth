@@ -28,6 +28,9 @@
                 {% if page.url == '/resume/' %}
                   {% include "assets/css/resume.css" %}
                 {% endif %}
+                {% if page.url == '/about/' %}
+                  {% include "assets/css/about.css" %}
+                {% endif %}
                 {% endset %}
                 <style>{{css | cssmin | safe}}</style>
                 {% set js %}
