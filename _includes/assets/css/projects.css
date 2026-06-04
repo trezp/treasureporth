@@ -26,7 +26,7 @@
 }
 
 .project-card.fade-in {
-  transition: transform 0.3s ease-in-out, opacity 0.5s ease;
+  transition: transform 0.3s ease-in-out, opacity 0.9s ease;
 }
 
 .project-card:hover {
