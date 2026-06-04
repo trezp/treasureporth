@@ -4,6 +4,7 @@ emoji: 📋
 metaDescription: A case study of the Treehouse Techdegree bootcamp program — curriculum design, mentor training, and continuous improvement at scale.
 date: 2024-07-01T00:00:00.000Z
 summary: A case study of the Treehouse Techdegree, an online coding bootcamp with around 1,000 students enrolled at any given time. I designed the portfolio projects and rubrics, trained and managed a contractor mentor team, and ran the feedback loops that kept the program improving.
+image: /static/img/treehouse-on-camera.png
 tags:
   - javascript
 ---

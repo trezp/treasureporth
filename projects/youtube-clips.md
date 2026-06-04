@@ -4,7 +4,6 @@ emoji: 🎥
 metaDescription: Scripted technical videos I wrote, presented, and helped produce for FreeCodeCamp, Scrimba, and Treehouse
 date: 2023-06-01T00:00:00.000Z
 summary: Scripted tutorials, explainers, and a demo reel. Includes a Treehouse explainer with 818,000 views and a FreeCodeCamp tutorial with 265,000 views.
-image: /static/img/treehouse-on-camera.png
 tags:
   - javascript
   - node

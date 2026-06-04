@@ -4,6 +4,7 @@ emoji: 🎓
 metaDescription: A selection of courses and learning modules I've designed, scripted, and taught
 date: 2024-06-01T00:00:00.000Z
 summary: Courses I designed, scripted, and taught across Scrimba, Coursera, and Treehouse. Focused on JavaScript, APIs, and AI tools for developers.
+image: /static/img/scrimba-profile.png
 tags:
   - ai 
   - javascript
