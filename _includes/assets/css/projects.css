@@ -22,11 +22,11 @@
   border-radius: var(--border-radius-sm);
   position: relative;
   cursor: pointer;
-  transition: transform 0.2s ease-in-out, border-left-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+  transition: transform 0.2s ease-in, border-left-color 0.2s ease-in, box-shadow 0.2s ease-in;
 }
 
 .project-card.fade-in {
-  transition: transform 0.2s ease-in-out, border-left-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, opacity 0.9s ease;
+  transition: transform 0.2s ease-in, border-left-color 0.2s ease-in, box-shadow 0.2s ease-in, opacity 0.9s ease;
 }
 
 .project-card:hover {
