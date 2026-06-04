@@ -13,12 +13,12 @@ tags:
 
 Eight courses produced for Pluralsight between September 2024 and July 2025, rated 4.4 stars across 21 ratings. I handled scripting, technical demos, and production coordination on each one, recording and editing in Camtasia.
 
-<img src="/static/img/pluralsight-author-profile.png" alt="Treasure Porth's Pluralsight author profile showing 8 courses and 4.6 star rating" class="project-screenshot">
+<div class="screenshot-pair">
+  <img src="/static/img/pluralsight-author-profile.png" alt="Treasure Porth's Pluralsight author profile showing 8 courses and 4.6 star rating" class="project-screenshot">
+  <img src="/static/img/pluralsight-express-slide.png" alt="Course intro slide: Using Express with a NoSQL Database" class="project-screenshot">
+</div>
 
 🔗 [View my Pluralsight author page](https://www.pluralsight.com/authors/treasure-porth)
-
-
-<img src="/static/img/pluralsight-express-slide.png" alt="Course intro slide: Using Express with a NoSQL Database" class="project-screenshot">
 
 ### Node & Express
 

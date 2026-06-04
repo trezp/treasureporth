@@ -52,6 +52,18 @@
   margin: 1.5rem 0;
 }
 
+.screenshot-pair {
+  display: flex;
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.screenshot-pair .project-screenshot {
+  flex: 1;
+  max-width: none;
+  margin: 0;
+}
+
 .project-card h4 {
   margin-top: 0;
   margin-bottom: 1.2rem;
