@@ -64,7 +64,7 @@ document.addEventListener('DOMContentLoaded', function () {
       vx: (Math.random() - 0.5) * 0.2,
       vy: (Math.random() - 0.5) * 0.2,
       baseOpacity: Math.random() * 0.5 + 0.2,
-      twinkleSpeed: Math.random() * 0.025 + 0.008,
+      twinkleSpeed: Math.random() * 0.003 + 0.001,
       twinkleAmount: Math.random() * 0.3 + 0.15,
       phase: Math.random() * Math.PI * 2,
       rotation: Math.random() * Math.PI * 2,
