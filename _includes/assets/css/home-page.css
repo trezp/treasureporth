@@ -97,8 +97,8 @@
   height: 250px;
   object-fit: cover;
   object-position: center top;
-  border-radius: var(--border-radius);
-  border: 3px solid transparent;
+  border-radius: 20px;
+  border: 10px solid transparent;
   background:
     linear-gradient(var(--color-bg), var(--color-bg)) padding-box,
     linear-gradient(130deg, #5EEAD4, #0D9488 45%, #8B45C4 85%) border-box;
