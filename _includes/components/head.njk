@@ -25,6 +25,9 @@
                 {% if page.url == '/contact/' %}
                   {% include "assets/css/contact.css" %}
                 {% endif %}
+                {% if page.url == '/resume/' %}
+                  {% include "assets/css/resume.css" %}
+                {% endif %}
                 {% endset %}
                 <style>{{css | cssmin | safe}}</style>
                 {% set js %}
