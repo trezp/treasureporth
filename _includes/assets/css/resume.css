@@ -50,7 +50,7 @@
 }
 
 .resume-section h2 {
-  font-size: 1.1rem;
+  font-size: 1.4rem;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   color: var(--color-text);
@@ -61,19 +61,13 @@
 
 /* Job entries */
 .resume-job {
-  padding: 0 0 1.8rem 1.2rem;
-  border-left: 3px solid var(--color-border);
-  margin-bottom: 1.8rem;
-  transition: border-left-color 0.2s ease;
+  padding: 1.8rem 0 0;
+  border-top: 1px solid var(--color-border);
 }
 
-.resume-job:last-child {
-  margin-bottom: 0;
-  padding-bottom: 0;
-}
-
-.resume-job:hover {
-  border-left-color: var(--color-primary);
+.resume-job:first-child {
+  padding-top: 0;
+  border-top: none;
 }
 
 .resume-job__meta {
@@ -88,7 +82,7 @@
   font-family: var(--font-family-heading);
   font-weight: 700;
   font-size: 1.1em;
-  color: var(--color-primary);
+  color: var(--color-text-alt);
 }
 
 .resume-job__dates {
@@ -123,7 +117,7 @@
   font-family: var(--font-family-heading);
   font-weight: 700;
   font-size: 0.88em;
-  color: var(--color-primary);
+  color: var(--color-text-alt);
   margin-bottom: 0.2rem;
 }
 
@@ -137,7 +131,7 @@
 .resume-education__institution {
   font-family: var(--font-family-heading);
   font-weight: 700;
-  color: var(--color-primary);
+  color: var(--color-text-alt);
   display: block;
   margin-bottom: 0.3rem;
 }
@@ -165,12 +159,34 @@
     display: none;
   }
 
-  .resume {
+  body, .resume {
+    background: #fff !important;
+    color: #111 !important;
     padding: 0;
   }
 
+  .resume-header__sub,
+  .resume-job__company,
+  .resume-skill__category,
+  .resume-education__institution {
+    color: #111 !important;
+  }
+
+  .resume-section h2 {
+    color: #111 !important;
+    opacity: 0.5;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 0.3rem;
+  }
+
   .resume-job {
+    border-top-color: #ccc !important;
     break-inside: avoid;
+  }
+
+  a {
+    color: #111 !important;
+    text-decoration: none !important;
   }
 }
 
