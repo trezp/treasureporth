@@ -22,15 +22,17 @@
   border-radius: var(--border-radius-sm);
   position: relative;
   cursor: pointer;
-  transition: transform 0.3s ease-in-out;
+  transition: transform 0.3s ease-in-out, border-left-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
 }
 
 .project-card.fade-in {
-  transition: transform 0.3s ease-in-out, opacity 0.9s ease;
+  transition: transform 0.3s ease-in-out, border-left-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out, opacity 0.9s ease;
 }
 
 .project-card:hover {
   transform: scale(1.025);
+  border-left-color: var(--color-accent);
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.4);
 }
 
 .project-card h4 {
