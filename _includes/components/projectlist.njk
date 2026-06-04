@@ -1,7 +1,7 @@
 <section>
   <div class="project-grid">
     {% for post in projectlist | reverse %}
-      <div class="project-card" {% if post.url == url %} data-current="current item"{% endif %}>
+      <div class="project-card fade-in" {% if post.url == url %} data-current="current item"{% endif %}>
         <h4>
           <a class="project-card__title" href="{{ post.url | url }}">
             {% if post.data.title %}

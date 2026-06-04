@@ -18,6 +18,7 @@
                 {% include "assets/css/site-footer.css" %}
                 {% include "assets/css/blog.css" %}
                 {% include "assets/css/projects.css" %}
+                {% include "assets/css/animations.css" %}
                 {% if page.url == '/' %}
                   {% include "assets/css/home-page.css" %}
                 {% endif %}
@@ -28,6 +29,7 @@
                 <style>{{css | cssmin | safe}}</style>
                 {% set js %}
                 {% include "assets/js/inline.js" %}
+                {% include "assets/js/animations.js" %}
                 {% endset %}
                 <script>{{ js | jsmin | safe }}</script>
               </head>

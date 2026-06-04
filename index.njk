@@ -5,6 +5,7 @@ section: home
 
 <div class="home-page">
   <div class="home-section home-section--hero">
+    <canvas id="hero-particles"></canvas>
     <div class="home-section__inner">
       <div class="hero">
         <div class="hero__intro">
@@ -24,32 +25,32 @@ section: home
   </div>
   <div class="home-section home-section--work">
     <div class="home-section__inner">
-      <h2>Portfolio</h2>
+      <h2 class="fade-in">Portfolio</h2>
       {% set projectlist = collections.project %}
       {% include "components/projectlist.njk" %}
     </div>
   </div>
   <div class="home-section home-section--skills">
     <div class="home-section__inner">
-      <h2>Tools & Skills</h2>
+      <h2 class="fade-in">Tools & Skills</h2>
       <div class="skills-grid">
-        <div class="skills-group">
+        <div class="skills-group fade-in">
           <h3>Curriculum & Content</h3>
           <p>Camtasia, Loom, Articulate (in progress), Canva, Google Slides, Google Docs, Markdown</p>
         </div>
-        <div class="skills-group">
+        <div class="skills-group fade-in">
           <h3>Platforms & LMS</h3>
           <p>Scrimba, Pluralsight, Treehouse, Coursera, Canvas</p>
         </div>
-        <div class="skills-group">
+        <div class="skills-group fade-in">
           <h3>Collaboration & Documentation</h3>
           <p>Zoom, Slack, Notion, Confluence, Calendly, GitHub</p>
         </div>
-        <div class="skills-group">
+        <div class="skills-group fade-in">
           <h3>Research & Feedback</h3>
           <p>Google Forms, SurveyMonkey</p>
         </div>
-        <div class="skills-group">
+        <div class="skills-group fade-in">
           <h3>Development</h3>
           <p>JavaScript, Node.js, Python, HTML/CSS, VS Code</p>
         </div>
