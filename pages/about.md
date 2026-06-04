@@ -9,6 +9,12 @@ eleventyNavigation:
   order: 4
 ---
 
+<div class="about-photos">
+  <img src="/static/img/F0A8317A-6C5A-463E-AC52-400FBB5BD723_1_105_c.jpeg" alt="Treasure in front of a colorful mural" class="about-photo">
+  <img src="/static/img/mebarcelona.jpg" alt="Treasure posing inside a large circular sculpture" class="about-photo">
+  <img src="/static/img/tenmilelake.jpg" alt="Ten Mile Lake, Oregon" class="about-photo">
+</div>
+
 ### How I got here
 
 My first teaching job was at Portland Community College, working as a teaching assistant in a program called Career Pathways. We taught basic computer skills to recent immigrants and refugees. I loved it immediately. The instructor I worked with was great, the students were inspiring, and by the end I was pretty sure I wanted to spend my career in adult education.
@@ -34,9 +40,3 @@ The other thing I keep coming back to is simplicity and repetition. Keep example
 I have a Master's in Postsecondary, Adult, and Continuing Education from Portland State University, and a background in software development across edtech, higher education, and developer tooling platforms.
 
 I live in Portland, Oregon. I go to drag shows, dance at DJ Action Slack's vintage vinyl parties, and spend summers swimming in rivers and soaking at Carson Hot Springs. Portland Community College offers a fake fruit sculpting class that I am determined to take as soon as it isn't full. I own a ukulele and crochet hooks. I genuinely intend to use both again someday.
-
-<div class="about-photos">
-  <img src="/static/img/F0A8317A-6C5A-463E-AC52-400FBB5BD723_1_105_c.jpeg" alt="Treasure in front of a colorful mural" class="about-photo">
-  <img src="/static/img/mebarcelona.jpg" alt="Treasure posing inside a large circular sculpture" class="about-photo">
-  <img src="/static/img/tenmilelake.jpg" alt="Ten Mile Lake, Oregon" class="about-photo">
-</div>
