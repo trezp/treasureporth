@@ -4,6 +4,7 @@ emoji: 🎯
 metaDescription: Eight developer courses produced for Pluralsight, covering Node, Express, NestJS, Web Components, and modern JavaScript tooling.
 date: 2025-07-07T00:00:00.000Z
 summary: Eight self-paced courses produced for Pluralsight, covering backend development, modern JavaScript tooling, and web platform fundamentals. Rated 4.4 stars across 21 ratings.
+image: /static/img/pluralsight-express-slide.png
 tags:
   - javascript
   - node
@@ -12,8 +13,12 @@ tags:
 
 Eight courses produced for Pluralsight between September 2024 and July 2025, rated 4.4 stars across 21 ratings. I handled scripting, technical demos, and production coordination on each one, recording and editing in Camtasia.
 
+<img src="/static/img/pluralsight-author-profile.png" alt="Treasure Porth's Pluralsight author profile showing 8 courses and 4.6 star rating" class="project-screenshot">
+
 🔗 [View my Pluralsight author page](https://www.pluralsight.com/authors/treasure-porth)
 
+
+<img src="/static/img/pluralsight-express-slide.png" alt="Course intro slide: Using Express with a NoSQL Database" class="project-screenshot">
 
 ### Node & Express
 
